@@ -1,0 +1,22 @@
+#myTopic{
+ font-style:italic;
+
+}
+#myBody{
+    background-image: url("rm222batch2-mind-03.jpg");
+}
+#player1{
+    background-color: white;
+    width: 400px;
+    border-radius: 75px;
+}
+#player2{
+    background-color: white;
+    width: 400px;
+    border-radius:75px;
+}
+#maindiv{
+    background-color: blue;
+    border-radius: 75px;
+    width:500px;
+}
